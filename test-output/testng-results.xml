@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16740" started-at="2020-04-30T14:35:56Z" finished-at="2020-04-30T14:36:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16740" started-at="2020-04-30T14:35:56Z" finished-at="2020-04-30T14:36:13Z">
+      <class name="TestNG.NewTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.NewTest@4de5031f]" name="launch" is-config="true" duration-ms="12059" started-at="2020-04-30T20:05:56Z" finished-at="2020-04-30T20:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifysite()[pri:0, instance:TestNG.NewTest@4de5031f]" name="verifysite" duration-ms="4645" started-at="2020-04-30T20:06:08Z" finished-at="2020-04-30T20:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysite -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.NewTest@4de5031f]" name="close" is-config="true" duration-ms="1" started-at="2020-04-30T20:06:13Z" finished-at="2020-04-30T20:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestNG.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
